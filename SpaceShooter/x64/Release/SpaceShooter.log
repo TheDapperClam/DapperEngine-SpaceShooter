@@ -1,0 +1,31 @@
+﻿  D:\TheDapperClam\Documents\Dev\Libraries\SDL2-2.26.0\lib\x64\SDL2.dll
+  1 File(s) copied
+  D:\TheDapperClam\Documents\Dev\Projects\C++\DapperEngine\Engine\Resources\Shaders\shader_collider.shader
+  D:\TheDapperClam\Documents\Dev\Projects\C++\DapperEngine\Engine\Resources\Shaders\shader_label.shader
+  D:\TheDapperClam\Documents\Dev\Projects\C++\DapperEngine\Engine\Resources\Shaders\shader_sprite.shader
+  3 File(s) copied
+cl : command line  warning D9002: ignoring unknown option '/NDEBUG'
+  main.cpp
+  LINK : /LTCG specified but no code generation required; remove /LTCG from the link command line to improve linker performance
+  SpaceShooter.vcxproj -> D:\TheDapperClam\Documents\Dev\Projects\C++\SpaceShooter\Game_Build\Release\SpaceShooter.exe
+  D:\TheDapperClam\Documents\Dev\Projects\C++\SpaceShooter\SpaceShooter\Resources\Audio\bg.ogg
+  D:\TheDapperClam\Documents\Dev\Projects\C++\SpaceShooter\SpaceShooter\Resources\Audio\blaster.ogg
+  D:\TheDapperClam\Documents\Dev\Projects\C++\SpaceShooter\SpaceShooter\Resources\Audio\explosion.ogg
+  D:\TheDapperClam\Documents\Dev\Projects\C++\SpaceShooter\SpaceShooter\Resources\Audio\impact.ogg
+  D:\TheDapperClam\Documents\Dev\Projects\C++\SpaceShooter\SpaceShooter\Resources\Audio\ufo.wav
+  D:\TheDapperClam\Documents\Dev\Projects\C++\SpaceShooter\SpaceShooter\Resources\Config\options.ini
+  D:\TheDapperClam\Documents\Dev\Projects\C++\SpaceShooter\SpaceShooter\Resources\Fonts\SalmaproMedium-0Wooo.otf
+  D:\TheDapperClam\Documents\Dev\Projects\C++\SpaceShooter\SpaceShooter\Resources\Prefabs\Bullet.dpf
+  D:\TheDapperClam\Documents\Dev\Projects\C++\SpaceShooter\SpaceShooter\Resources\Prefabs\Meteor.dpf
+  D:\TheDapperClam\Documents\Dev\Projects\C++\SpaceShooter\SpaceShooter\Resources\Prefabs\UFO.dpf
+  D:\TheDapperClam\Documents\Dev\Projects\C++\SpaceShooter\SpaceShooter\Resources\Scenes\SpaceShooter.dsn
+  D:\TheDapperClam\Documents\Dev\Projects\C++\SpaceShooter\SpaceShooter\Resources\Shaders\shader_collider.shader
+  D:\TheDapperClam\Documents\Dev\Projects\C++\SpaceShooter\SpaceShooter\Resources\Shaders\shader_label.shader
+  D:\TheDapperClam\Documents\Dev\Projects\C++\SpaceShooter\SpaceShooter\Resources\Shaders\shader_sprite.shader
+  D:\TheDapperClam\Documents\Dev\Projects\C++\SpaceShooter\SpaceShooter\Resources\Textures\Bullet.png
+  D:\TheDapperClam\Documents\Dev\Projects\C++\SpaceShooter\SpaceShooter\Resources\Textures\Meteor.png
+  D:\TheDapperClam\Documents\Dev\Projects\C++\SpaceShooter\SpaceShooter\Resources\Textures\Ship_White.png
+  D:\TheDapperClam\Documents\Dev\Projects\C++\SpaceShooter\SpaceShooter\Resources\Textures\Stars.png
+  D:\TheDapperClam\Documents\Dev\Projects\C++\SpaceShooter\SpaceShooter\Resources\Textures\UFO.png
+  D:\TheDapperClam\Documents\Dev\Projects\C++\SpaceShooter\SpaceShooter\Resources\Tilesets\Stars.dts
+  20 File(s) copied

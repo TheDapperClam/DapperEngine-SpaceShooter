@@ -1,0 +1,1 @@
+{"primaryTexture":"Stars","tileSize":[16,16],"tiles":[{"imageX":0,"imageY":0},{"imageX":16,"imageY":0},{"imageX":0,"imageY":16},{"imageX":16,"imageY":16}],"type":"class dap::Tileset"}
