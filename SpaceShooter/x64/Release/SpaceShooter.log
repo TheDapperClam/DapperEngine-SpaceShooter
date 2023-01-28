@@ -5,7 +5,37 @@
   D:\TheDapperClam\Documents\Dev\Projects\C++\DapperEngine\Engine\Resources\Shaders\shader_sprite.shader
   3 File(s) copied
 cl : command line  warning D9002: ignoring unknown option '/NDEBUG'
+  Bullet.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+D:\TheDapperClam\Documents\Dev\Libraries\glfw-3.3.6\include\GLFW\glfw3.h(123,1): message : see previous definition of 'APIENTRY'
+D:\TheDapperClam\Documents\Dev\Projects\C++\SpaceShooter\SpaceShooter\Bullet.cpp(43,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
   main.cpp
+  Meteor.cpp
+D:\TheDapperClam\Documents\Dev\Projects\C++\SpaceShooter\SpaceShooter\Meteor.cpp(21,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\TheDapperClam\Documents\Dev\Projects\C++\SpaceShooter\SpaceShooter\Meteor.cpp(27,45): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\TheDapperClam\Documents\Dev\Projects\C++\SpaceShooter\SpaceShooter\Meteor.cpp(27,19): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+  Player.cpp
+D:\TheDapperClam\Documents\Dev\Projects\C++\SpaceShooter\SpaceShooter\Player.cpp(25,19): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\TheDapperClam\Documents\Dev\Projects\C++\SpaceShooter\SpaceShooter\Player.cpp(26,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\TheDapperClam\Documents\Dev\Projects\C++\SpaceShooter\SpaceShooter\Player.cpp(37,45): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\TheDapperClam\Documents\Dev\Projects\C++\SpaceShooter\SpaceShooter\Player.cpp(37,19): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+  ScoreBoard.cpp
+  Ship.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+D:\TheDapperClam\Documents\Dev\Libraries\glad\include\glad\glad.h(32,1): message : see previous definition of 'APIENTRY'
+D:\TheDapperClam\Documents\Dev\Projects\C++\SpaceShooter\SpaceShooter\Ship.cpp(35,45): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\TheDapperClam\Documents\Dev\Projects\C++\SpaceShooter\SpaceShooter\Ship.cpp(35,19): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+  SpaceShooterGame.cpp
+D:\TheDapperClam\Documents\Dev\Projects\C++\SpaceShooter\SpaceShooter\SpaceShooterGame.cpp(52,41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\TheDapperClam\Documents\Dev\Projects\C++\SpaceShooter\SpaceShooter\SpaceShooterGame.cpp(73,45): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\TheDapperClam\Documents\Dev\Projects\C++\SpaceShooter\SpaceShooter\SpaceShooterGame.cpp(73,19): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+  UFO.cpp
+D:\TheDapperClam\Documents\Dev\Projects\C++\SpaceShooter\SpaceShooter\UFO.cpp(34,32): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Generating Code...
   LINK : /LTCG specified but no code generation required; remove /LTCG from the link command line to improve linker performance
   SpaceShooter.vcxproj -> D:\TheDapperClam\Documents\Dev\Projects\C++\SpaceShooter\Game_Build\Release\SpaceShooter.exe
   D:\TheDapperClam\Documents\Dev\Projects\C++\SpaceShooter\SpaceShooter\Resources\Audio\bg.ogg
